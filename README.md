@@ -1,4 +1,4 @@
-# Práctica 1 - Laboratorio de Computo
+# Práctica 1 - Laboratorio de Cómputo
  ![hola](/assets/hola.png)
 
 ## Ingeniería en Computación
